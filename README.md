@@ -20,7 +20,9 @@ tbd.
 
 ## Notes
 
-TODO order and clean up the notes below
+TODO order and clean up the notes below.
+
+Further reading: [Apple App Store, TestFlight, Virtual Mac for App Development](https://github.com/openmindculture/tools-settings/blob/main/techtips/apple-test-flight-virtual-mac.md) 🍏
 
 ### App Idea: Book Grid Native
 
